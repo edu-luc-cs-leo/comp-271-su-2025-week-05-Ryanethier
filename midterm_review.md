@@ -1,0 +1,7 @@
+# Midterm Review
+
+Looking back on the first half of the course, I’ve had both successes and setbacks. One of my biggest flaws so far was missing the Week 04 assignment because of an oversight on my part with submission. I also missed a class session, which impacted my overall consistency. However, I see these moments not as failures, but as opportunities to grow. Missing the assignment taught me the importance of staying organized and double-checking due dates and syncs with CodeSpaces. Since then, I’ve made it a priority to review the course schedule more closely and set earlier personal deadlines to avoid missing submissions again.
+
+In terms of coding mistakes, I’ve occasionally submitted work that either lacked proper Javadoc or had minimal inline comments. These oversights hurt my code. To improve, I’ve started reviewing my assignments with a checklist that includes documentation and adherence to the Programmer Pact. I’ve also begun commenting more thoughtfully, aiming to make my code readable and maintainable.
+
+Regarding engagement, I’ve managed fairly well but recognize the need for improvement. I typically join class on time and participate when comfortable, though I can be more proactive in reaching out when I hit roadblocks. My goal for the second half of the course is to treat it more like a job I truly value—showing up consistently, staying engaged, and putting in the recommended study hours. I plan to take more initiative by exploring additional problems. Through these changes, I’m confident I’ll finish the course stronger than I started.
